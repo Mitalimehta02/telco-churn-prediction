@@ -1,0 +1,9 @@
+Model,Type,Accuracy,Precision,Recall,F1,AUC
+XGBoost,Classical ML,0.7842,0.5907,0.6096,0.6,0.8428
+Gradient Boosting,Classical ML,0.7779,0.5768,0.6123,0.594,0.8407
+Logistic Regression,Classical ML,0.7346,0.5,0.7861,0.6112,0.8402
+Random Forest,Classical ML,0.7736,0.5594,0.6925,0.6189,0.8385
+Decision Tree,Classical ML,0.78,0.5737,0.6658,0.6163,0.8224
+SVM,Classical ML,0.7573,0.531,0.7326,0.6157,0.8187
+Simple MLP,Deep Learning,0.753,0.5263,0.6952,0.5991,0.8174
+KNN,Classical ML,0.6785,0.4404,0.7807,0.5632,0.7879
